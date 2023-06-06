@@ -2,9 +2,8 @@
 This data was gotten from the Complaints Dataset
 
 ## INTRODUCTION
-You are working for a Government Agency as a Data Analyst. You have been granted access to 
-a database file called “ComplaintsDB.sql” with consumer complaints received by financial 
-institutions in 2013 – 2015
+I was  granted access to a database file called “ComplaintsDB.sql” with consumer complaints received by financial 
+institutions in 2013 – 2015.
 
 ## QUESTIONS
 1. Find out how many complaints were received and sent by CFPB on the same day. (Hint: 
@@ -23,7 +22,5 @@ name field?
 11. List two companies having the most consumer disputed as "yes".
 
 ## ANSWERS
-1. Find out how many complaints were received and sent by CFPB on the same day. (Hint: 
-where Date received = Date Sent)
 
-![Question 1 answer](Q1 answer.jpg)
+
